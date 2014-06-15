@@ -1,0 +1,25 @@
+{
+  "name": "htmltetris",
+  "version": "0.0.0",
+  "description": "Steven Lu's HTML tetris code",
+  "main": " ",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smikes/htmltetris.git"
+  },
+  "author": "Steven Lu",
+  "license": "unknown",
+  "bugs": {
+    "url": "https://github.com/smikes/htmltetris/issues"
+  },
+  "homepage": "https://github.com/smikes/htmltetris",
+  "devDependencies": {
+    "istanbul": "^0.2.11",
+    "jslint": "^0.5.2",
+    "mocha": "^1.20.1",
+    "should": "^4.0.4"
+  }
+}
